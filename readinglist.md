@@ -5,3 +5,4 @@ Format  : "Title - URL - [Not attributed|Robin|Florent]"
 - [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) - Robin
 - [Hired seems to do something](https://hired.co.uk/) - Robin
 - [And Google](https://blog.google/products/search/connecting-more-americans-jobs/) - Robin
+- [This is oddly relevant (deeplink broken, middle right)](https://www.okcupid.com/help/match-percentages) - Robin
